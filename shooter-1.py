@@ -28,6 +28,8 @@ class Player(GameSprite):
 
     def fire(self):
         pass
+    def fire2(self):
+        pass
 
 
 player=Player('rocket.png',200,390,80,100,5)
